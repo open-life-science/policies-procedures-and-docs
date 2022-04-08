@@ -6,6 +6,7 @@ All OLS participants invite at least one expert to discuss their projects. These
 
 ## Call agenda template
 
+```markdown
 - Who is attending 
     - project mentees
     - experts
@@ -17,6 +18,7 @@ All OLS participants invite at least one expert to discuss their projects. These
     1. 
     2.   
     3. 
+```
 
 ## Email invitation for mentors
 
