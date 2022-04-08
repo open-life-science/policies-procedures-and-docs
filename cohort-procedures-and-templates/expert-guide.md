@@ -1,4 +1,4 @@
-# OLS Expert Guide
+# OLS Guide to inviting experts to meet project leads
 
 More on what being an OLS expert means: [OLS Expert page](https://openlifesci.org/about#experts)
 
