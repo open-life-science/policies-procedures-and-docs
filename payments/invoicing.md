@@ -14,8 +14,8 @@ _Other countries are welcome here too - please make a PR or speak to the OLS tea
 
 If OLS pays you regularly as a mentor, expert, or call facilitator, you may find it easier to send an invoice rather than filling out our honorarium form. 
 
-- Here is a template invoice you can use: [Template invoice]()
-- Here is an example of a filled out invoice. 
+- Here is a template invoice you can use: [Template invoice](https://docs.google.com/document/d/1JzDUJKUrczrgk0PEjOiwWV8orMaSeKsDcwzu8E7C4U4/edit?usp=sharing)
+- Here is an [example of a filled out invoice](https://docs.google.com/document/d/13njRFxAddvpVRloCke1BzIw5Cuxfoymtgrm-FicPAbQ/edit?usp=sharing). 
 -   Make sure to note the number of hours or payment agreed and the rate of payment. 
 -   Include your payment details
 -   Include a physical address
