@@ -1,0 +1,22 @@
+# Invoicing OLS
+
+When invoicing OLS for a pre-agreed fee, please make sure to send the invoice to `financemanagement at openlifesci dot org`. These invoices are usually paid once a week. 
+
+## Tax and social benefits
+
+You are responsible for ensuring that you comply with local tax laws and income reporting. If you are employed, check with your employer if accepting payments outside employment is permitted in your contract. 
+
+In the UK, if you earn under £1,000 in untaxed income, you do not need to report it. See the [Self Assessment questionnaire](https://www.gov.uk/check-if-you-need-tax-return) (ten quick questions) for more info. 
+
+_Other countries are welcome here too - please make a PR or speak to the OLS team_.
+
+## Sample invoices
+
+If OLS pays you regularly as a mentor, expert, or call facilitator, you may find it easier to send an invoice rather than filling out our honorarium form. 
+
+- Here is a template invoice you can use: [Template invoice]()
+- Here is an example of a filled out invoice. 
+-   Make sure to note the number of hours or payment agreed and the rate of payment. 
+-   Include your payment details
+-   Include a physical address
+-   Include an email so we can contact you with any questions! 
