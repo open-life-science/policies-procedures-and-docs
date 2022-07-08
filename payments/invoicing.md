@@ -4,7 +4,7 @@ When invoicing OLS for a pre-agreed fee, please make sure to send the invoice to
 
 ## Tax and social benefits
 
-You are responsible for ensuring that you comply with local tax laws and income reporting. If you are employed, check with your employer if accepting payments outside employment is permitted in your contract. 
+You are responsible for ensuring that you comply with relevant and/or local tax laws and income reporting. If you are employed, check with your employer if accepting payments outside employment is permitted in your contract. 
 
 In the UK, if you earn under £1,000 in untaxed income, you do not need to report it. See the [Self Assessment questionnaire](https://www.gov.uk/check-if-you-need-tax-return) (ten quick questions) for more info. 
 
