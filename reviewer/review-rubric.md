@@ -1,1 +1,1 @@
-![../figures/rse-community.jpg]
+![Alt text](../figures/rse-community.jpg)
