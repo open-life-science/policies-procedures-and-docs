@@ -1,1 +1,1 @@
-Test data
+![../figures/rse-community.jpg]
