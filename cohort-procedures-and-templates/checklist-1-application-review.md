@@ -6,4 +6,4 @@
 - [ ] Create Slack channel for review.
   - [ ] Invite all reviewews and potential mentors
 - [ ] 1-2 days before applications reviews are due: Remind mentors to finish reviews.
-- [ ] Book OLS-team meeting to discuss accepted vs non-accepted applications. 
+- [ ] Book OLS-team meeting to discuss accepted vs non-accepted applications.
