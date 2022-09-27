@@ -17,13 +17,8 @@ Syllabus: [https://openlifesci.org/ols-6/schedule/#week-02](https://openlifesci.
 
 Join Zoom Meeting
 
-[https://us02web.zoom.us/j/87694724081?pwd=Wi9QMk5QeUVnL3JFZDJhYUcrdjNBQT09](https://us02web.zoom.us/j/87694724081?pwd=Wi9QMk5QeUVnL3JFZDJhYUcrdjNBQT09)
+LINK REDACTED
 
-
-
-Meeting ID: 876 9472 4081
-
-Passcode: 351004
 
 
 
