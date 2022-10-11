@@ -39,7 +39,7 @@ Review notes, [otter.ai](http://otter.ai/) transcription and uploading cohort ca
 OLS team would like to offer an honorarium amount of $50 for each call you contribute to.
 
 #### Sign up here
- - [Shared sheet to sign-up for 1 or multiple of these roles](https://docs.google.com/spreadsheets/d/1b0V10RTy8q4JSBGwW5vHGG2B2QbNx5JLqKSnAF1BN0c/edit?usp=sharing)
+ - [Shared sheet to sign-up for 1 or multiple of these roles](https://docs.google.com/spreadsheets/d/1uUB1vEzYAPIYKubm3CKbFaTXVgBkzRtWI70EbVcSBD0/edit#gid=474251031)
 
 
 
