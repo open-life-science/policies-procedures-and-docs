@@ -29,10 +29,10 @@
 
 During this week’s cohort call, we will learn about:
 
-   * Code review
-   * Package management
    * Code style
+   * Code review
    * Testing
+   * Package management
     
 
 #### **(es) Llamada de rol**
@@ -69,17 +69,17 @@ HOST (⏰ 2 mins)
        * **S** for Spoken Discussion Breakout Room/ This will help us assign you to the breakout room with the format of your choice 
 
 
-## ✏️ Open Science II: Sharing your open project: Knowledge Dissemination
+## ✏️ Open-source code (skill-up)
 
 During this week’s cohort call, we will learn about:
 
-   * The motivations and practicalities in practising open science
-   * Sharing knowledge through training
-   * Preprints, DOIs and citations
-   * Publishing and citing research code
+   * Code style
+   * Testing
+   * Code review
+   * Package management
+    
 
-
-## 🥼Sharing knowledge through training
+## 📋 Code style & testing
 
 HOST (10mins + 5 for questions) [⏰20]
 
@@ -101,7 +101,7 @@ HOST (10mins + 5 for questions) [⏰20]
 
 ## **Quiet reflection exercise:** 
 
-*Planning and preparing what outcomes of your project should be shared with the wider community.*
+*Writing good quality code*
 
 HOST(10 minutes) [⏰30]
 
@@ -109,7 +109,7 @@ HOST(10 minutes) [⏰30]
 
 **Questions to reflect upon**
 
-***Practicing Open Science: ****What sorts of things within your project can be shared? Why? / You can also write what should not be shared and why?*
+*For your coding language: how have you learned about best practices? Which tools do you use to ensure your code follows good practice?*
 
    *   
    *  
@@ -118,7 +118,7 @@ HOST(10 minutes) [⏰30]
 
 
 
-## 🗣️ Preprints, DOIs and Citation
+## 🔎 Code review
 
 HOST (10mins + 5 for questions) [⏰20]
 
@@ -144,17 +144,15 @@ HOST introduces, HOST2 sets up (8 mins breakout + 4 mins reporting out) [⏰ 60]
 
 👥 Break-out room (8 minutes, ~3-4 rooms):
 
+*Planning and preparing your code for review and reviewing contributions by others.*
+Useful links: 
+- https://the-turing-way.netlify.app/reproducible-research/reviewing/reviewing-checklist.html#rr-checklist-for-code-review
+- https://carpentries-incubator.github.io/python-intermediate-development/41-code-review/index.html
+
+Please discuss:
+- For your project: how would code review be most useful? How can you organise it?
 
 
-Sharing in science isn’t always straightforward.
-
-
-
-***INSTRUCTIONS: ****Every group has a separate set of questions. Questions are sourced from *[https://github.com/baricks/opentodiscussion](*https://github.com/baricks/opentodiscussion*)* *
-
-   1. *Assign a note taker in your group*
-   1. *Pick* **one** *of the questions assigned to your group and discuss the issues.*
-   1. *Make sure to take notes under each question you discuss so others can read later on!*
 **Breakout room reminder**: if you need assistance in your breakout room, please click the ‘**Ask for Help**’ button at the bottom of your screen
 
 
@@ -185,7 +183,7 @@ Room 6: Spoken/Written
 
 
 
-## 👩‍💻Publishing and citing open research code
+## 📤 Package management
 
 HOST (10mins + 5 for questions) [⏰XX]
 
@@ -216,7 +214,7 @@ HOST (5 mins)
    * Feel stuck and need help, invite an OLS team members in your meeting
        * Complete the midterm survey: TODO LINK
    * Next calls
-       * Week 12 - Cohort call "Diversity and Inclusion \& Ally skills", Schedule: [https://openlifesci.org/ols-4/schedule/#week-12](https://openlifesci.org/ols-4/schedule/#week-12) 
+       * Week 12 - Cohort call "Diversity and Inclusion & Ally skills", Schedule: [https://openlifesci.org/ols-4/schedule/#week-12](https://openlifesci.org/ols-4/schedule/#week-12) 
        * Week 13 -  Mentor-mentee meeting and cohort call "Personal ecology" (skill-up)
 
 ## 
