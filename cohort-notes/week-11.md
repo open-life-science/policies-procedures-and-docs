@@ -29,10 +29,10 @@
 
 During this week’s cohort call, we will learn about:
 
-   * Code style
-   * Code review
-   * Testing
-   * Package management
+  * Code style
+  * Testing
+  * Code review
+  * Package management
     
 
 #### **(es) Llamada de rol**
@@ -111,16 +111,16 @@ HOST(10 minutes) [⏰30]
 
 *For your coding language: how have you learned about best practices? Which tools do you use to ensure your code follows good practice?*
 
-   *   
-   *  
-   *  
-   * 
+   * [list a thing]
+   * [list a thing] 
+   * [list a thing] 
+   * [list a thing]
 
 
 
 ## 🔎 Code review
 
-HOST (10mins + 5 for questions) [⏰20]
+HOST (10mins + 5 for questions) [⏰40]
 
 **Speaker: name/social**
 
@@ -138,19 +138,26 @@ HOST (10mins + 5 for questions) [⏰20]
        *  
 
 
-## 👥 Breakout session
+## 👥 Breakout session: code review practice
 
 HOST introduces, HOST2 sets up (8 mins breakout + 4 mins reporting out) [⏰ 60]
 
 👥 Break-out room (8 minutes, ~3-4 rooms):
 
 *Planning and preparing your code for review and reviewing contributions by others.*
-Useful links: 
-- https://the-turing-way.netlify.app/reproducible-research/reviewing/reviewing-checklist.html#rr-checklist-for-code-review
-- https://carpentries-incubator.github.io/python-intermediate-development/41-code-review/index.html
-
-Please discuss:
-- For your project: how would code review be most useful? How can you organise it?
+We’ll start by reviewing code that isn’t written by anyone in the group. 
+- **Thinking:** _4 minutes_
+    - Pick one of these repos: 
+        - https://github.com/madetech/sensible_logging
+        - https://github.com/taverna/taverna-svn/commits/master
+        - https://github.com/biopython/biopython
+        - https://github.com/mozilla/jschannel 
+    - Spend a couple of minutes looking through your chosen repo. Note down 2-3 points each for:
+        - Things that could be improved
+        - Good quality code
+- **Sharing** _4 minutes_
+    - Share one good thing and one thing that can be improved with your group. Try to bring something new that wasn’t discussed before! 
+    - Did the group agree with your assessment? Discuss.
 
 
 **Breakout room reminder**: if you need assistance in your breakout room, please click the ‘**Ask for Help**’ button at the bottom of your screen
@@ -158,34 +165,59 @@ Please discuss:
 
 
 Room 1: Written/Spoken
-
-   * 
+ - Good things:
+   * [list a thing]
+   * [list a thing]
+ - Areas for improvement:
+   * [list a thing] 
+   * [list a thing]
 
 Room 2: Written/Spoken
-
-   * 
+ - Good things:
+   * [list a thing]
+   * [list a thing]
+ - Areas for improvement:
+   * [list a thing] 
+   * [list a thing]
 
 Room 3: Spoken/Written
+ - Good things:
+   * [list a thing]
+   * [list a thing]
+ - Areas for improvement:
+   * [list a thing] 
+   * [list a thing]
 
-   * 
 
 Room 4: Spoken/Written
-
-   * 
+ - Good things:
+   * [list a thing]
+   * [list a thing]
+ - Areas for improvement:
+   * [list a thing] 
+   * [list a thing]
 
 Room 5: Spoken/Written
+ - Good things:
+   * [list a thing]
+   * [list a thing]
+ - Areas for improvement:
+   * [list a thing] 
+   * [list a thing]
 
-   * 
 
 Room 6: Spoken/Written
-
-   * 
-
+ - Good things:
+   * [list a thing]
+   * [list a thing]
+ - Areas for improvement:
+   * [list a thing] 
+   * [list a thing]
 
 
 ## 📤 Package management
 
-HOST (10mins + 5 for questions) [⏰XX]
+HOST (10mins + 5 for questions) [⏰70]
 
 **Speaker: name/social**
 
