@@ -95,9 +95,7 @@ Fellows should promote OLS where appropriate. For example, we expect Fellows to 
 We encourage Fellows to use social media in order to broadcast news about our work.
 
 ## Expenses
-OLS/SSI Fellows do not have to submit requests for attending/organising events that will incur expenses. OLS/SSI Fellows will get issued credit cards to spend their £3000 Fellows budget. Any invoices and receipts for money spent with that credit card will need to be sent to ssi-ols-fellows@openlifesci.org with a short explanation of the expense. Invoices will need to show VAT.  
-
-The expenses must be incurred over the period 1 January 2023 to 31 March 2024.
+The expense policy will be provided as part of the onboarding process.
 
 ### What events meet the criteria for funding?
 Primarily these will be events that you specified in your Fellowship application.  
