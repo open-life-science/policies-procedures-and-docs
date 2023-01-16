@@ -29,11 +29,10 @@
 
 During this week’s cohort call, we will learn about:
 
-  * Code style
-  * Testing
-  * Code review
-  * Package management
-    
+   * Code style
+   * Code review
+   * Package management
+   * Testing
 
 #### **(es) Llamada de rol**
 
@@ -74,12 +73,12 @@ HOST (⏰ 2 mins)
 During this week’s cohort call, we will learn about:
 
    * Code style
-   * Testing
    * Code review
    * Package management
+   * Testing
     
 
-## 📋 Code style & testing
+## 📋 Code style
 
 HOST (10mins + 5 for questions) [⏰20]
 
@@ -118,7 +117,7 @@ HOST(10 minutes) [⏰30]
 
 
 
-## 🔎 Code review
+## 🔎 Code review and package management
 
 HOST (10mins + 5 for questions) [⏰40]
 
@@ -215,7 +214,7 @@ Room 6: Spoken/Written
    * [list a thing]
 
 
-## 📤 Package management
+## 📤 Testing
 
 HOST (10mins + 5 for questions) [⏰70]
 
