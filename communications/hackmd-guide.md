@@ -1,7 +1,7 @@
 OLS HackMD guide: How to work with this doc?
 ===
 
-###### tags: `guide`
+**Please share this HackMD to demo how to work with HackMD: https://hackmd.io/@openlifesci/hackmd-guide**
 
 HackMD documents are collaborative documents (like a Google docs) where multiple people can write simultaneously. Open Life Science will use these documents for taking shared notes.
 
