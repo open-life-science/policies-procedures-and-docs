@@ -4,22 +4,23 @@
 
 1. Attend at least 5 mentor-mentee meetings, unless there is a valid reason that your mentor(s) can attest to. (The Open Seeds program includes 8 mentor-mentee meetings in total.) 
 2. A “yes” from your mentor(s) confirming your participation and engagement with the Open Seeds curriculum. 
-  * What should a mentor consider? The mentor(s) should analyse if the mentee(s) have or have not made consistent efforts to advance their projects, and showed interest in the topic of open science and willingness to advance the goals of open science in their work.
+  * This "yes" includes confirmation of points 3,4 and 5 below (regarding open canvas, vision and roadmap).
+  * What should a mentor consider? The mentor(s) should analyse if the mentee(s) have or have not made consistent efforts to advance their projects, and showed interest in the topic of open science and willingness to advance the goals of open science in their work. 
   * Note that this does not mean that participants have to complete their project, or execute it as planned. It’s fine to change directions, or even decide the project isn’t needed to continue - so long as genuine thought went into it. 
 3. Open Canvas discussed with their mentor. 
 4. Vision and Mission statements discussed with their mentor. 
 5. Roadmap discussed with their mentor. 
 6. Attend cohort calls, or watch recorded videos, and contribute to the shared notes (etherpads) from cohort calls.
-7. Participate in at least one skill up session, co-working/cafeteria/q&a session. 
+7. Participate in at least one skill up session and on one co-working or cafeteria or q&a session. 
 8. Complete the mid-term survey for project leads/mentees. 
-9. Presente a 5-minute presentation in one of the graduation calls. 
+9. Present a 5-minute presentation in one of the graduation calls. 
  
 ## What we expect from you at the graduation
 
 1. You will have 5 minutes to present your work. Please discuss your plan with your team and mentor in the meeting before graduation, prepare your presentation and be ready to answer questions from fellow participants.  
 2. We want to hear about your project, the progress you have made, the hurdles you encountered, and what comes next. If you want, use the chance to invite others to join you as collaborators or advisers. 
 3. If possible, please use the OLS template and Open Seeds and OLS logos in your presentation https://docs.google.com/presentation/d/1575V9FZXgQA5DXkGRKYiRHbdR5D_QZWWFdwpYST6NWI/edit#slide=id.g21280744133_2_2 
-4. If it is a group project, we would prefer if all project members are present during the graduation call, and more than one person speaks/delivers the presentation.
+4. If it is a group project, we would prefer (this is not mandatory) if all project members are present during the graduation call, and more than one person speaks/delivers the presentation.
 5. Please upload your presentation on Zenodo, and include 'openlifesci' in the 'community' section. This will allow us to feature your presentation on our Zenodo community page. 
 
 ### Reminder 
