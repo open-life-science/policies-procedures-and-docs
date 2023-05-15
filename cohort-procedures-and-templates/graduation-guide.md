@@ -1,61 +1,99 @@
-## Week-15 Information: OLS-5 Rehearsal calls
+# What is needed to graduate from an Open Seeds - OLS cohort?
+
+## These are the requirements to be able to graduate from the Open Seed programme by Open Life Science:
+
+1. Attend at least 5 mentor-mentee meetings, unless there is a valid reason that your mentor(s) can attest to. (The Open Seeds program includes 8 mentor-mentee meetings in total.) 
+2. A “yes” from your mentor(s) confirming your participation and engagement with the Open Seeds curriculum. 
+  * This "yes" includes confirmation of points 3,4 and 5 below (regarding open canvas, vision and roadmap).
+  * What should a mentor consider? The mentor(s) should analyse if the mentee(s) have or have not made consistent efforts to advance their projects, and showed interest in the topic of open science and willingness to advance the goals of open science in their work. 
+  * Note that this does not mean that participants have to complete their project, or execute it as planned. It’s fine to change directions, or even decide the project isn’t needed to continue - so long as genuine thought went into it. 
+3. Open Canvas discussed with their mentor. 
+4. Vision and Mission statements discussed with their mentor. 
+5. Roadmap discussed with their mentor. 
+6. Attend cohort calls, or watch recorded videos, and contribute to the shared notes (etherpads) from cohort calls.
+7. Participate in at least one skill up session and on one co-working or cafeteria or q&a session. 
+8. Complete the mid-term survey for project leads/mentees. 
+9. Present a 5-minute presentation in one of the graduation calls. 
+ 
+## What we expect from you at the graduation
+
+1. You will have 5 minutes to present your work. Please discuss your plan with your team and mentor in the meeting before graduation, prepare your presentation and be ready to answer questions from fellow participants.  
+2. We want to hear about your project, the progress you have made, the hurdles you encountered, and what comes next. If you want, use the chance to invite others to join you as collaborators or advisers. 
+3. If possible, please use the OLS template and Open Seeds and OLS logos in your presentation https://docs.google.com/presentation/d/1575V9FZXgQA5DXkGRKYiRHbdR5D_QZWWFdwpYST6NWI/edit#slide=id.g21280744133_2_2 
+4. If it is a group project, we would prefer (this is not mandatory) if all project members are present during the graduation call, and more than one person speaks/delivers the presentation.
+5. Please upload your presentation on Zenodo, and include 'openlifesci' in the 'community' section. This will allow us to feature your presentation on our Zenodo community page. 
+
+### Reminder 
+
+Do remember to sign up for and attend one of the graduation rehearsals, so you can get feedback and ideas for your presentation. For OLS-7, check the times here: https://openlifesci.org/ols-7/schedule/ 
+
+### Graduates and their projects 
+
+Upon graduation, as a OLS-7 cohort graduate you can call yourself an OLS Fellow and Alumna/Alumni.
+
+We have recently named our mentoring programme as Open Seeds. You can refer to the graduating projects as Open Seeds Sprout or seedlings, or Open Seeds Plántula or Germoglio… etc (see below).
+
+In Portuguese: “broto”, a young plant = muda or mudinha
+In Spanish: “plántula”
+In French: 
+In Italian: Germoglio
+In Russian: Проросток
+In Hebrew: 
+In German: Spross
+(add)
+
+### What happens if you can’t attend any ceremony but want to graduate? 
+
+You can record your presentation and we can play it during one of the graduation ceremonies.
+
+### What happens if you do not graduate? 
+
+- Those who don’t graduate, can they say they participated? You can say you participated, but didn't not complete it. 
+- Can you apply again to OLS? Yes, you can apply again with another different project. 
+- Can you come back to OLS, in the next cohort with the same project? You can. Please describe in your proposal what challenges or hurdles blocked you from continuing your participation in the previous cohort. We also ask your mentor what they think and if they recommend any changes. 
+
+## Extension for anyone affected by special circumstances. 
+
+- If you would like to schedule a separate graduation call for any reasons (like affected by COVID-19 situation in your family/country/community or a big life event at home/work/personal reasons that impacted your work and slowed down your OLS project), please contact the OLS team by emailing [team@openlifesci.org](mailto:team@openlifesci.org).
+
+## Other Q&As 
+
+- If you didn’t graduate, can you be nominated by your mentor to become a mentor? 
+  - Some of our participants are open science practitioners and experts, and hence can be nominated as a mentor. We would prefer that you graduate from the programme unless there is a valid reason you or your mentor can share with the OLS team.
+- Can people nominate themselves to be invited back as experts, facilitators or mentors? 
+  - Graduates can nominate themselves as experts and facilitators. They can express their interest to join as mentors, but we will confirm your readiness to mentor from your mentor. 
+- Can people be nominated by other OLS community members despite not having graduated? 
+  - Yes, but we will prioritise graduates in the next cohort to ensure that fair opportunity is given to folks who have engaged in the programme.
+
+
+## Week-15 Information: Open Seeds - OLS Rehearsal calls
 
 **Rehearsal call: Get feedback for your presentations for graduation**
-**Hosts** : Malvika
-**Syllabus** : [Week-15](https://openlifesci.org/ols-5/schedule#week-15) 
-**Notes** : [https://bit.ly/ols-5-week-15](https://bit.ly/ols-5-week-15)
-
-**Please attend a call most compatible for your time zone**
-
-- **Group 1 Call time** :  7 Jun, Tuesday - 09:00 - 10:00 AM London time ([see in your timezone](https://arewemeetingyet.com/London/2022-06-07/09:00/week-15-ols-5-gr1))
-- **Group 2 Call time** :  8 Jun, Wednesday - 14:00 - 15:00 London time ([see in your timezone](https://arewemeetingyet.com/London/2022-06-08/14:00/week-15-ols-5-gr2))
-- **Group 3 Call time** :  9 Jun, Thursday - 17:00 - 18:00 London time ([see in your timezone](https://arewemeetingyet.com/London/2022-06-09/17:00/week-15-ols-5-gr3))
+Rehearsal calls are that, rehearsals so you can practice and therefore make a better graduation presentation. 
+**Syllabus** : Find it on OLS's web syllabus. 
+**Notes** : Find it on OLS's web schedule. 
 
 **During this cohort call, we will:**
 
 - Start by introducing how to give and receive constructive feedback
-- Have the participants present their project through 5 minutes presentation
+- Have the participants present their project in a 5 minutes presentation
 - Share feedback on the project and presentation to help prepare for the final graduation call
 
-**Before this meeting**
+**Before this call**
 
-- Come prepared to share a 3 mins presentation of your project - it doesn't have to be a polished or finished.
-- Your presentation can be in the form of a demo, short 1-2 slides presentation or walk through your website
-- This should only be a highlight and not the entire presentation (your graduation presentation next week will be 5 minutes long)
+- Prepare to share a 3 mins presentation of your project - it doesn't have to be a polished or finished presentation.
+- Your presentation can be in the form of a demo, a short 1-2 slides presentation or a walk through your website
+- This 3 min presentation should only be a snapshoot of your entire presentation (your graduation presentation will be 5 minutes long)
 
 
 ## Week 16: Graduation Calls
 
-**Graduation call: You will be officially graduating from OLS-5!**
+**Graduation call: You will be officially graduating from Open Seeds!**
 **Hosts** : 
-**Syllabus** : [Week-16](https://openlifesci.org/ols-5/schedule/#week-16) 
-**All notes** : [https://pad.sfconservancy.org/p/ols-5-graduations](https://pad.sfconservancy.org/p/ols-5-graduations)
-**Eventbrite link** : [Register now](https://www.eventbrite.com/cc/ols-5-graduations-432229 )
-
-### Graduation Slots: Please attend a call most compatible for your time zone
-
-#### June: 
-##### Slot 1: 
-- 14 June, 0900 UK time.
-- See in your timezone: https://arewemeetingyet.com/London/2022-06-14/09:00
-##### Slot 2: 
-- 15 June, 1400 UK time.
-- See in your timezone: https://arewemeetingyet.com/London/2022-06-15/14:00
-##### Slot 3: 
-- 16 June, 1700 UK time.
-- See in your timezone: https://arewemeetingyet.com/London/2022-06-16/17:00
-
-#### July: 
-##### Slot 4: 
-- 18 July, 0900-10:30 UK time.
-- See in your timezone: https://arewemeetingyet.com/London/2022-07-18/09:00
-##### Slot 5: <-- SPECIAL, bilingual graduation in English and en Español with translation both ways
-- 20 July, 1700-1830 UK time.
-- See in your timezone: https://arewemeetingyet.com/London/2022-07-20/17:00
+**Syllabus** :  Find it on OLS's web syllabus. 
+**All notes** : Find it on OLS's web schedule. 
+**Eventbrite link** : You will be sent an Eventbrite links to the graduation lots(and you musy choose one and register) 
     
-## Extension for anyone affected by the COVID situation (or life!)
-
-- If you would like to schedule a separate graduation call for any reasons (like affected by COVID-19 situation in your family/country/community or a big life event at home/work/personal reasons that impacted your work and slowed down your OLS project), please contact the OLS team by emailing [team@openlifesci.org](mailto:team@openlifesci.org).
 
 ## Prompts for your presentation
 
@@ -120,3 +158,5 @@
 -   Why is this important to you? What is in it for you? For others?
 -   What are 2-3 key activities or critical points we should know about your vision?
 -   What is the difference your vision will make for you, your community, (the world)?
+
+
