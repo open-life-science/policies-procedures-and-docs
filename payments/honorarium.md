@@ -15,11 +15,11 @@ No honoraria from OLS can be offered to currently engaged OLS employees, indepen
 Currently, OLS may offer:
 - 250 USD for expert speakers in an OLS cohort;
 - 500 USD for mentoring in an OLS cohort;
-- 50 USD/hour, for facilitation in an OLS cohort;
+- 50 USD/hour for facilitation in an OLS cohort;
 
 Generally, OLS community members who have been asked to perform a paid task by OLS community organisers are paid at 50 USD/hour.
 
-Individuals who are offered an honorarium can choose to donate the honorarium back to OLS’s work or to a charity of their choice. They can also choose to ask OLS to pay for a training session/conference fee up to the value of the payment - this offer expires in a year after the submission of the honorarium payment form, if unused.
+Individuals who are offered an honorarium can choose to donate the honorarium back to OLS’s work or to a charity of their choice. They can also choose to ask OLS to pay for a training session/conference fee up to the value of the payment - this offer expires 12 month) after the submission of the honorarium payment form, if unused.
 
 All honoraria must be approved by a Director or staff member of OLS.
 
