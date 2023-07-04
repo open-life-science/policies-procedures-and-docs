@@ -23,6 +23,15 @@ Individuals who are offered an honorarium can choose to donate the honorarium ba
 
 All honoraria must be approved by a Director or staff member of OLS.
 
+## FAQ: 
+
+### Q: I mentored two projects during a cohort. Does that mean I can claim two mentoring honoraria?
+
+A: Unfortunately, no. Whilst we would love to be more generous, honoraria are gifts, rather than payment for services. We'd be happy to discuss the confusing tax and working regulations around this if you have any questions, but it's unlikely to change. 
+
+### Q: My mentee never showed up for any meetings or cohort calls. Can I claim an honorarium? 
+
+A: We're sorry your mentee didn't show up! If it's one or two calls, but generally they participated, then yes, definitely. If they never participated in the program, then no, we don't offer an honorarium. 
 
 ---
 
