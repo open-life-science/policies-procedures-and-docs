@@ -21,7 +21,7 @@ You can also reach out to other OLS team members via Slack or email at any time.
 We have two facilitator roles per call. In some cases, it’s possible that the same person has signed up for both roles. 
 
 1. **Call Facilitator** reviews the cohort call notes and attends the cohort call to help the cohort call lead in making sure that a cohort call in a smooth, kind, and timely manner
-2. **Recording Facilitator** reviews the recording from the cohort call by checking the otter.ai transcription for accuracy and sharing the video via Youtube
+2. **Video Facilitator** reviews the recording from the cohort call by checking the otter.ai transcription for accuracy and sharing the video via Youtube
 
 **Please ask for the signup sheet where you can indicate your availability for 1 or multiple of these roles**
 
@@ -34,7 +34,7 @@ We invite you to take the lead on the following responsibilities for one or two 
 
 ### 1. Call Facilitator
 
-**These facilitators hold responsibilities for before and during the cohort calls**
+**These facilitators hold responsibilities before and during the cohort calls**
 
 * What you need: Etherpad link for the cohort call notes
 
@@ -64,7 +64,7 @@ _Time commitment: 90 minutes per call, please arrive 5-10 minutes early so we ca
 9. Create the breakout rooms if needed, considering people’s choice for spoken or written rooms. 
 10. Chair the session that you have agreed to (you would have coordinated this in advance with the call leads or community coordinator)
 
-### Recording Facilitator
+### Video Facilitator
 
 **These facilitators hold the post-call responsibility mainly.**
 
