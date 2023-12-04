@@ -14,7 +14,7 @@ How does the OLS team evaluate this “genuine reflection” actually happened? 
 6. Attend cohort calls, or watch recorded videos.
 7. Participate in at least one skill up session, q&a, or thematic session, unless there is a valid reason their mentors can confirm.
 8. Complete the mid term survey for project leads/mentees.
-9. Presente a 5 minute presentation in one of the graduation calls, or send a recording of a 15 minutes presentation created exclusively for Open Seeds OLS-8. 
+9. Present a 5 minute presentation in one of the graduation calls, or send a recording of a 15 minutes presentation created exclusively for Open Seeds OLS-8. 
 
 ## Types of graduation
 Participants can graduate in two different ways: 
