@@ -35,7 +35,7 @@ Do remember to sign up for and attend one of the graduation rehearsals, so you c
 If something unexpected happens and you cannot prepare your presentation in the expected timeframe, please get in touch with us (team@we-are-ols.org) and we will get back to you to discuss your case. 
 
 ## Graduates and their projects 
-Upon your graduation, as an Open Seeds OLS cohort graduate you can call yourself an OLS Fellow and Alumna/Alumni.
+Upon your graduation, as an Open Seeds OLS cohort graduate you can call yourself an OLS Fellow and Alumna/Alumnus.
 
 We have recently named our mentoring programme as Open Seeds. You can refer to the graduating projects as Open Seeds Sprout or seedlings, or Open Seeds Plántula or Germoglio… etc (see below).
 
