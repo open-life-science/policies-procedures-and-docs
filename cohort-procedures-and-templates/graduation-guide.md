@@ -48,7 +48,7 @@ We have recently named our mentoring programme as Open Seeds. You can refer to t
 
 ## What happens if you do not graduate? 
 
-- Those who don’t graduate, can they say they participated? You can say you participated, but didn't not complete it.
+- Those who don’t graduate, can they say they participated? You can say you participated, but didn't complete it.
 - Can you apply again to OLS? Yes, you can apply again with another different project.
 - Can you come back to OLS, in the next cohort with the same project? You can. Please describe in your proposal what challenges or hurdles blocked you from continuing your participation in the previous cohort. We also ask your mentor what they think and if they recommend any changes. However, we ask you to consider that as of December 2023, OLS is not sure when Open Seeds OLS-9 will take place. 
 
