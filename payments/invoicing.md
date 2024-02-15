@@ -6,9 +6,18 @@ When invoicing OLS for a pre-agreed fee, please make sure to send the invoice to
 
 You are responsible for ensuring that you comply with relevant and/or local tax laws and income reporting. If you are employed, check with your employer if accepting payments outside employment is permitted in your contract. 
 
+### If you are based in the UK
+
 In the UK, if you earn under £1,000 in untaxed income, you do not need to report it. See the [Self Assessment questionnaire](https://www.gov.uk/check-if-you-need-tax-return) (ten quick questions) for more info. 
 
 _Other countries are welcome here too - please make a PR or speak to the OLS team_.
+
+### If you are based in Germany
+
+You could investigate the possibility of getting recognized as a "Freiberufler", which is possible for work as a teacher, scientist, journalist, or lawyer (more or less... check [§18 Nr. 1 Abs. 1 EStG](https://www.gesetze-im-internet.de/estg/__18.html)). This is somewhat fast and doesn't cost anything. Until an income of ~20k€ per year, you do not have to pay taxes ("Kleinunternehmerregelung"). As an alternative, you can check whether it's possible to receive a payment rather as a "Stipendium" ([§ 3 Nr. 44 EStG](https://www.gesetze-im-internet.de/estg/__3.html), although conditions apply. Check the legal text! Yeay, it's Germany! ;)
+
+_Other countries are welcome here too - please make a PR or speak to the OLS team_.
+
 
 ## Sample invoices
 
