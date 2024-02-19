@@ -1,4 +1,4 @@
-# Video Facilitator (also called transcription checker)
+# 🎥 Video Facilitator (also called transcription checker)
 
 OLS members who have participated as a project lead in a previous cohort or have joined as an expert can volunteer to take the video facilitator role in the ongoing cohort. These individuals would like to learn more about the OLS processes or take a vital role in leading/facilitating the cohort calls. They commit their time and leadership skills toward building a collaborative experience for the attendees of OLS cohort calls.
 
@@ -6,7 +6,7 @@ We are very excited to create this role in OLS for the returning members from th
 
 Our aim is to share our practices for training and planning so you can take them into your projects and community. This is also an opportunity for us to invite community members to take on some of the management roles.
 
-## Responsibilities
+## 💁 Responsibilities
 
 **These facilitators are responsible for the post-call tasks.**
 
@@ -39,3 +39,10 @@ Below we provide a summary checklist. For a detailed tutorial, please refer to [
 - [ ] Also in column N, add the corresponding YouTube link at the exact time each individual talk starts. If you haven’t done this before, it is fairly easy. When you are on YouTube, click “share”, click the little box that says "start at" and the exact time you had chosen will show up, then click "copy" and paste such link in column N. 
 
 After you’ve completed these tasks please fill out the honorarium form: https://openlifescience.civicrm.org/civicrm/honorarium
+
+## ✏️ Resources
+
+A few references that can help us expand on these roles are:
+* The Turing Way chapter on remote collaboration: https://the-turing-way.netlify.app/collaboration/remote-collab.html.
+* Zoom manual for cohorts: https://support.zoom.us/hc/en-us/articles/360040324512-Roles-in-a-meeting.
+* Enhancing the inclusivity and accessibility of your online calls: https://osf.io/k3bfn/.
