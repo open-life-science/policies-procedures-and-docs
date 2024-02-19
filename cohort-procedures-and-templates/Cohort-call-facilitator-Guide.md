@@ -64,11 +64,15 @@ _Time commitment: 90 minutes per call, please arrive 5-10 minutes early so we ca
 9. Create the breakout rooms if needed, considering people’s choice for spoken or written rooms. 
 10. Chair the session that you have agreed to (you would have coordinated this in advance with the call leads or community coordinator)
 
+#### Chairing notes: 
+- If you are chairing a speaker session, make sure to pay attention to time, and ask the speaker to wrap up if they look like they're going to over-run their talk time. 
+- Always think of questions for the speakers. Often no-one wants to be the first person to ask, so a call host can "break the ice" by asking one themselves.
+
 ### Video Facilitator
 
 **These facilitators hold the post-call responsibility mainly.**
 
-What you would need: 
+What you will need: 
 
 * Please ask the organising team for credentials to [otter.ai](http://otter.ai/), YouTube and Zoom. We share this information via Keybase - please create a Keybase account if you don’t have one already.
 * You can publish the video for OLS also using your own account. Please create a YouTube account if you don’t have one and ask the Community Coordinator to give you appropriate access to the OLS YouTube account
