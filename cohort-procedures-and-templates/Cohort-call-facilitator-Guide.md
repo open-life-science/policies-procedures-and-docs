@@ -59,7 +59,7 @@ _Time commitment: 90 minutes per call, please arrive 5-10 minutes early so we ca
 4. Keep an eye on the chat and respond to questions. You can also privately coordinate with the participants or cohort call lead as needed, for example, if someone needs help with addressing any confusion or interruptions for attendees.
 5. Remind newcomers via the chat to add an_ S _or a _W_ in front of their Zoom name (S for spoken; W for written), for the breakout rooms. Privately coordinate with them if they have not indicated ‘W’ for written and ‘S’ for speaking to allow the creation of breakout rooms.
 6. Share the Etherpad link in the chat for the participants who arrive late and remind them to add their names in the roll call section of the Etherpad.
-7. Please also help take some notes per talk when you are not chairing.
+7. Please also help take some notes about the talks when you are not chairing.
 8. During the call, share the Etherpad’s line number where the participants should respond to a written reflection, questions or comments for speakers, prompts for the breakout discussion or notes section from breakout sessions.
 9. Create the breakout rooms if needed, considering people’s choice for spoken or written rooms. 
 10. Chair the session that you have agreed to (you would have coordinated this in advance with the call leads or community coordinator)
