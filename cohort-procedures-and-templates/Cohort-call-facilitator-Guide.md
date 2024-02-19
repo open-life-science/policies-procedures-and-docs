@@ -25,7 +25,7 @@ We have two facilitator roles per call. In some cases, it’s possible that the 
 
 **Please ask for the signup sheet where you can indicate your availability for 1 or multiple of these roles**
 
-As of August 2023, both facilitator roles are compensated with $ 50 USD per hour.
+As of August 2023, both facilitator roles are compensated with $ 50 USD per hour, with a maximum of 1.5 hours per cohort call or 3 hours for transcription.
 
 We invite you to take the lead on the following responsibilities for one or two cohort calls, depending on your availability and interests. Please note that we set a maximum of two calls per person in order to distribute opportunities as much as possible. For the same reason, also note that if you currently have a **confirmed** mentor role in the cohort, we would prefer you sign up for only one cohort call facilitation slot.
 
