@@ -40,6 +40,11 @@ Below we provide a summary checklist. For a detailed tutorial, please refer to [
 
 After you’ve completed these tasks please fill out the honorarium form: https://openlifescience.civicrm.org/civicrm/honorarium
 
+## ❓ How to get help
+
+* Do you have any technical questions about the tasks? Post them in the Slack channel `ols-cohort-call-facilitators`. 
+* You are also welcome to contact Irene Ramos (cohort coordinator) via Slack or email. 
+
 ## ✏️ Resources
 
 A few references that can help us expand on these roles are:
