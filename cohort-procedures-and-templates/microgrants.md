@@ -40,7 +40,7 @@ These are items to help you participate in online calls with the cohort and your
 # FAQs
 
 ## Who can apply for a microgrant?
-Microgrants are primarily for participants accepted into an OLS program to ensure they can fully participate in the programme. In some cases we can also support mentors with microgrants to facilitate them supporting their mentees.
+Microgrants are primarily for participants accepted into an OLS program to ensure they can fully participate. In some cases, we can also support mentors with microgrants to facilitate them supporting their mentees.
 
 ## How much money can I ask for?
 There is no general limit for the size of a microgrant as needs differ and prices for items vary around the world. We try to be fair in our support and have as many people as possible profit from our microgrant programme, so we sometimes might ask you to prioritize your requests.
