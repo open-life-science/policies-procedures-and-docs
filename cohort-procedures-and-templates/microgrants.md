@@ -32,7 +32,7 @@ These are items to help you participate in online calls with the cohort and your
 - Lithium batteries can't usually be shipped internationally, but are fine if you can source one in your country. 
 - Buying a whole new computer is usually out of scope, but if you think there's a compelling reason this is needed let us know. 
 
-# Project expenses: After week 12 in Open Seeds program or participation in at least one cohort
+# Project expenses: After week 12 in the Open Seeds program or participation in at least one cohort
 
 - Organisational set-up costs such as videoconference subscriptions, legal registration of your organisation. 
 - Swag items such as stickers, leaflets, etc.
