@@ -32,7 +32,7 @@ These are items to help you participate in online calls with the cohort and your
 - Lithium batteries can't usually be shipped internationally, but are fine if you can source one in your country. 
 - Buying a whole new computer is usually out of scope, but if you think there's a compelling reason this is needed let us know. 
 
-# Project expenses: After week 12 or participation in at least one cohort
+# Project expenses: After week 12 in Open Seeds program or participation in at least one cohort
 
 - Organisational set-up costs such as videoconference subscriptions, legal registration of your organisation. 
 - Swag items such as stickers, leaflets, etc.
@@ -40,7 +40,7 @@ These are items to help you participate in online calls with the cohort and your
 # FAQs
 
 ## Who can apply for a microgrant?
-Microgrants are primarily for OLS Open Seeds mentees to ensure they can fully participate in the programme. We can also support mentors with microgrants to facilitate them supporting their mentees.
+Microgrants are primarily for participants accepted into an OLS program to ensure they can fully participate in the programme. In some cases we can also support mentors with microgrants to facilitate them supporting their mentees.
 
 ## How much money can I ask for?
 There is no general limit for the size of a microgrant as needs differ and prices for items vary around the world. We try to be fair in our support and have as many people as possible profit from our microgrant programme, so we sometimes might ask you to prioritize your requests.
