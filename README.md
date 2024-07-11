@@ -1,3 +1,11 @@
+This documentation is now on the OLS website: https://openlifesci.org/policies-procedures-and-docs/ 
+
+
+🚨 OUT OF DATE
+
+🚨 OUT OF DATE
+
+
 # policies-procedures-and-docs
 Public-facing policies, procedures, and documentation around running the OLS program, such that others can benefit and re-use the policies if running similar programs. 
 
